@@ -39,3 +39,4 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
+[![review-proof](https://github.com/szoftvertech9448/se-lab/actions/workflows/review-proof.yml/badge.svg)](https://github.com/szoftvertech9448/se-lab/actions/workflows/review-proof.yml)
